@@ -1,0 +1,27 @@
+body {
+    background-color: rgb(26, 22, 22);
+}
+#email
+{
+    width:300px;
+    margin-top: 6px;
+}
+
+#pwd
+{
+    width:300px;
+}
+#btn
+{
+    width:100px;
+}
+.container {
+    width: 498px;
+    height: 250px;
+    background-color: white;
+    margin-top: 365px;
+    margin-left: 565px;
+    padding-left: 32px;
+    padding-bottom: 24px;
+    padding-top: 19px;
+}
